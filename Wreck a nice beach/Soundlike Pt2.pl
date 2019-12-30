@@ -1,0 +1,1 @@
+soundslike(X, Y) :- fst(T,X),fst(T,Y).
